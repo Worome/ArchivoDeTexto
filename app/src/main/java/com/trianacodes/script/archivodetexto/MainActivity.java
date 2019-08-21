@@ -76,7 +76,7 @@ public class MainActivity extends AppCompatActivity {
 
         }
 
-        Toast.makeText(this,"Información guardada coreectamente", Toast.LENGTH_LONG).show();
+        Toast.makeText(this,"Información guardada coreectamente. Gracias", Toast.LENGTH_LONG).show();
         finish();
 
     }
